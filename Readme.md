@@ -33,6 +33,11 @@ Key advantages of a micro-frontend approach include:
 
  ### Screenshots
 
-    ![Container](./screenshots/Container_app.png)
-    ![App 1](./screenshots/M1_app.png)
-    ![App 2](./screenshots/M2_app.png)
+ - Container app / Root app
+ ![Container_app](https://github.com/amandhunna/micro-frontend/assets/33181477/ab56655e-fa7c-43f4-b2e0-7508d531ff01)
+
+- Micro-frontend app 1
+![M1_app](https://github.com/amandhunna/micro-frontend/assets/33181477/22c863bd-8511-4daa-a569-b9ae3dc24013)
+
+- Micro-frontend app 2
+![M2_app](https://github.com/amandhunna/micro-frontend/assets/33181477/ef6035d3-af2b-45fb-ae54-8341e12a5d59)
