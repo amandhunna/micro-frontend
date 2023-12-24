@@ -33,6 +33,6 @@ Key advantages of a micro-frontend approach include:
 
  ### Screenshots
 
-    ![Container]('./screenshots/Container_app.png')
-    ![App 1]('./screenshots/M1_app.png')
-    ![App 2]('./screenshots/M2_app.png')
+    ![Container](./screenshots/Container_app.png)
+    ![App 1](./screenshots/M1_app.png)
+    ![App 2](./screenshots/M2_app.png)
